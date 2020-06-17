@@ -1,4 +1,4 @@
-# Bài 07: Viết chương trình kiểm tra 2 list có phần tử chung hay không.
+#  Bài 07: Viết chương trình kiểm tra 2 list có phần tử chung hay không.
 list1 = [0,1,2,3,4,5]
 list2 = [8,8,8,8]
 a = 0

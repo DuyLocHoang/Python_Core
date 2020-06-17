@@ -1,5 +1,5 @@
 # Bài 08: Cho list các số nguyên dương A.
-#         Xây dựng chương trình đếm số lượng tập gồm 2 phần tử A[i] và A[j] thỏa mãn A[i] > A[j] và i < j.
+#        Xây dựng chương trình đếm số lượng tập gồm 2 phần tử A[i] và A[j] thỏa mãn A[i] > A[j] và i < j.
 list2 = [2,1]
 list1 = [8,8,8,8]
 a = 0
