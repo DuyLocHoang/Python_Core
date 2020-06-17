@@ -1,5 +1,5 @@
 # Bài 03: Viết chương trình tạo ra list mới bằng cách ghép một chuỗi s vào các phần tử list cũ.
-my_list = [1,2,3,4,5]
-
-my_list.append([1,2,3])
+chuoi = input("Nhap chuoi :")
+my_list = [1,2,3]
+my_list.append(chuoi)
 print(my_list)
