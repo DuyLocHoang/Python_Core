@@ -1,3 +1,4 @@
+# Bài 01: Viết chương trình tính tổng, tích của các phần tử trong một list.
 my_list = [0, 1, 2, 3, 8, 5, 6, 7, 8, 9]
 tong = 0
 tich = 1

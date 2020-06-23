@@ -1,3 +1,4 @@
+# Bài 09: Viết chương trình tính tích của 2 ma trận vuông cấp 3 (Gợi ý: dùng list chứa list).
 # import numpy as np
 # a = np.array([[1,2,3],[4,5,6],[7,8,9]])
 # b = np.array([[1,2,3],[4,5,6],[7,8,9]])
