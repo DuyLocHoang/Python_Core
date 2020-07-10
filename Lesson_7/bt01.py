@@ -19,7 +19,7 @@
 # max_min(5,9,7)
 
 def max_min(*numbers):
-    my_list = [max(*numbers),min(*numbers)]
+    my_list = [max(numbers),min(numbers)]
     return my_list
 
 print(f'max : {max_min(1,2,3,45)[0]} \nmin : {max_min(1,2,3,45)[1]}')
